@@ -1,0 +1,44 @@
+English :
+
+Theme (Image) :
+Steampunk : https://www.scirra.com/store/game-user-interfaces/steampunk-game-gui-1799
+Sci-fi : https://assetstore.unity.com/packages/2d/gui/complete-sci-fi-gui-psd-files-76123
+Medieval : https://pzuh.itch.io/medieval-game-gui
+
+Theme (Sound) :
+Steampunk : https://tabletopaudio.com/blog/2015/07/03/steampunk-airship/
+Sci-fi : http://www.universal-soundbank.com/wagner.htm
+Medieval : http://www.universal-soundbank.com/musiques-moyen-age.htm
+
+Browser File :
+Asset Store : https://assetstore.unity.com/packages/tools/gui/runtime-file-browser-113006
+
+French :
+
+Theme (Image):
+Steampunk : https://www.scirra.com/store/game-user-interfaces/steampunk-game-gui-1799
+Sci-fi : https://assetstore.unity.com/packages/2d/gui/complete-sci-fi-gui-psd-files-76123
+Medieval : https://pzuh.itch.io/medieval-game-gui
+
+Theme (Son) :
+Steampunk : https://tabletopaudio.com/blog/2015/07/03/steampunk-airship/
+Sci-fi : http://www.universal-soundbank.com/wagner.htm
+Medieval : http://www.universal-soundbank.com/musiques-moyen-age.htm 
+
+Browser File :
+Asset Store : https://assetstore.unity.com/packages/tools/gui/runtime-file-browser-113006
+
+Spanish :
+
+Tema (Imagen) :
+Steampunk : https://www.scirra.com/store/game-user-interfaces/steampunk-game-gui-1799
+Sci-fi : https://assetstore.unity.com/packages/2d/gui/complete-sci-fi-gui-psd-files-76123
+Medieval : https://pzuh.itch.io/medieval-game-gui
+
+Tema (Sonido) :
+Steampunk : https://tabletopaudio.com/blog/2015/07/03/steampunk-airship/
+Sci-fi : http://www.universal-soundbank.com/wagner.htm
+Medieval : http://www.universal-soundbank.com/musiques-moyen-age.htm
+
+Browser File :
+Asset Store : https://assetstore.unity.com/packages/tools/gui/runtime-file-browser-113006
